@@ -1,0 +1,25 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: linear-gradient(to right,#000000,#008000);
+}
+p {
+    font-size:4rem;
+    font-weight:bolder ;
+    color: #d5cbcb;
+}
+.container {
+    margin-top: 50px;
+    text-align: center;
+    height: 100vh;
+}
+input {
+    margin: 5px;
+    margin-top: 40px;
+    width: 60px;
+    height: 60px;
+
+}
